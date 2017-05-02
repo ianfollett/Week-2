@@ -6,6 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< Updated upstream
   "author": "Ian Follett using template from Brenden West",
   "license": "MIT"
 }
+=======
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianfollett/Week-2.git"
+  },
+  "author": "Ian Follett",
+  "license": "MIT",
+  "bugs": {
+    "url": "github.com/ianfollett/Week-2/issues"
+  },
+  "homepage": "https://github.com/ianfollett/Week-2#readme"
+}
+>>>>>>> Stashed changes
